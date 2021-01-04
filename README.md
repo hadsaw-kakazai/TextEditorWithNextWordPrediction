@@ -49,7 +49,8 @@ Classes Details:
 
 
 
-Youtube Link:  
+Youtube Link:  https://youtu.be/Lk4d9jFyL5Y
+
 GitHub  Link:	 https://github.com/hadsaw-kakazai/TextEditorWithNextWordPrediction
 
 
